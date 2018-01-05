@@ -1,0 +1,10 @@
+name: "IceDan"
+navbar:
+  title: "IceDan"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "первая"
+      href:  my_first.html
+    - text: "второй"
+      href: my_second.html
